@@ -17,6 +17,7 @@ An interactive benchmarking testbed and telemetry platform evaluating transport-
 - **Interactive Visualization:** Real-time side-by-side telemetry comparison powered by Streamlit and Plotly.
 
 ---
+![Dashboard Preview](dashboard.jpg)
 
 ## Project Structure
 ```text
