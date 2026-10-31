@@ -4,10 +4,6 @@ An interactive benchmarking testbed and telemetry platform evaluating transport-
 
 ## Academic Context
 - **Course:** DES331 Computer Network (Section 2)
-- **Group:** 13
-- **Members:** 
-  - 6722771241 Noppatee Ammaro
-  - 6722781901 Thanawan Lelavijit
 
 ---
 
