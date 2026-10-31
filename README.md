@@ -2,6 +2,8 @@
 
 An interactive benchmarking testbed and telemetry platform evaluating transport-layer mechanics (TCP with TLS 1.3 vs. QUIC / RFC 9000) under synthetic edge-network degradation.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://quic-tcp-benchmark.streamlit.app/)
+
 ## Academic Context
 - **Course:** DES331 Computer Network (Section 2)
 
